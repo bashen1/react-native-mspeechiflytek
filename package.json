@@ -1,0 +1,18 @@
+{
+  "name": "react-native-mspeechiflytek",
+  "version": "3.0.3",
+  "description": "speech iflytek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "bashen1",
+  "homepage": "https://github.com/bashen1/react-native-mspeechiflytek#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.60"
+  }
+}
