@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.libraries = 'sqlite3','z'
   s.vendored_frameworks = 'ios/lib/iflyMSC.framework'
 
-  s.dependency 'React'
+  s.dependency 'React-Core'
 end
